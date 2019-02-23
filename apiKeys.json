@@ -1,0 +1,5 @@
+{
+  "clarifaiID": "your Clarifai app ID",
+  "clarifaiSecret": "your Clarifai app secret",
+  "yandexTranslateKey": "yandex translate api key"
+}
